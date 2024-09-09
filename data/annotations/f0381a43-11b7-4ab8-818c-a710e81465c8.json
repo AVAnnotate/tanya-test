@@ -1,5 +1,52 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Zora Neale Hurston walks in the room and introduces herself."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9b1688db-585c-41aa-9178-99c8c14adb61"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Hello, my name is Zora Neale Hurston."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "524670c0-803f-4d5c-8468-86000d9e85f3"
+    }
+  ],
   "set": "Default",
   "event_id": "c923bebf-ebc4-4b01-9b73-56338a9f435c",
   "source_id": "3213fd1e-fad8-461f-8367-fcaca063b4e6"
