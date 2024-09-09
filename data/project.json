@@ -15,7 +15,18 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "camdendotlol",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64725469?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "ajolipa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
