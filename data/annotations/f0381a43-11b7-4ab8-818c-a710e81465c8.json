@@ -15,29 +15,6 @@
           },
           "children": [
             {
-              "text": "Zora Neale Hurston walks in the room and introduces herself."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9b1688db-585c-41aa-9178-99c8c14adb61"
-    },
-    {
-      "start_time": 1,
-      "end_time": 10,
-      "annotation": [
-        {
-          "0": {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          },
-          "children": [
-            {
               "text": "Hello, my name is Zora Neale Hurston."
             }
           ]
