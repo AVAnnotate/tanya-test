@@ -1,0 +1,71 @@
+{
+  "event_id": "04706e53-525c-4ec8-92eb-01b3d3a6eaab",
+  "source_id": "d5070b04-175f-4ce2-8915-49d6b0f3d1d5",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 52.012698,
+      "end_time": 60.836281,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "ce78f011-a687-466c-a563-e790e8782489"
+    },
+    {
+      "start_time": 346.813243,
+      "end_time": 359.259138,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "6ee805dc-1ccc-44c5-ba06-47639f0c99cc"
+    },
+    {
+      "start_time": 943.101678,
+      "end_time": 949.231746,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "33c07042-defd-4e70-986d-a97a6ea7500b"
+    },
+    {
+      "start_time": 2262.041542,
+      "end_time": 2273.23356,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "e8e732de-86ce-4fa8-8a5f-2e263bf9477c"
+    }
+  ]
+}

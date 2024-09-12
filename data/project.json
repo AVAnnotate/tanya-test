@@ -115,6 +115,26 @@
         {
           "tag": "Whispering",
           "category": "Tone of voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
         }
       ]
     },

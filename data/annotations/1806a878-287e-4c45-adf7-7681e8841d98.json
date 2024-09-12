@@ -1,0 +1,743 @@
+{
+  "event_id": "04706e53-525c-4ec8-92eb-01b3d3a6eaab",
+  "source_id": "d5070b04-175f-4ce2-8915-49d6b0f3d1d5",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 2729.474895,
+      "end_time": 2729.474895,
+      "annotation": [
+        {
+          "text": "My name is Zora Neal Hurston. I was born in Eatonville, FLorida. I'm 35 years old. This song that I'm going to sing is a railroad song that I found on a railroad gang near Miami and was song to me by Max Ford."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ced765f2-7f6b-4462-8816-25133d1e8f8a"
+    },
+    {
+      "start_time": 2751.045425,
+      "end_time": 2751.045425,
+      "annotation": [
+        {
+          "text": "That was in 1930."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "66c886dd-5689-4794-90ad-149c08515876"
+    },
+    {
+      "start_time": 2757.859455,
+      "end_time": 2757.859455,
+      "annotation": [
+        {
+          "text": "I was collecting folk material for Columbia University as part of the Barnard College, Columbia University."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8a52edc0-adaa-4f37-8457-dfcc6013cbd9"
+    },
+    {
+      "start_time": 2766.756756,
+      "end_time": 2766.756756,
+      "annotation": [
+        {
+          "text": "They call it Gonna see my long-haired babe and it's a railroad spiking song and the rhythm is kept with a spike and a hammer."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "38ca5898-5092-4b18-b915-05e625f2e51d"
+    },
+    {
+      "start_time": 2782.207678,
+      "end_time": 2782.207678,
+      "annotation": [
+        {
+          "text": "Yes, sir."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "9515228a-4722-475b-b0dd-5135c17e8ad7"
+    },
+    {
+      "start_time": 2883.072689,
+      "end_time": 2883.072689,
+      "annotation": [
+        {
+          "text": "Let them hammers ring, boy."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ddd3f3a4-1587-4890-986f-f58595da9e1e"
+    },
+    {
+      "start_time": 2894.357071,
+      "end_time": 2894.357071,
+      "annotation": [
+        {
+          "text": "Uh, the men face each other with hammers and they call on each other; they're breasted, they stand breast to breast and one comes down and the other one comes down."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8f92d383-291c-461a-8494-d3a4711d12cf"
+    },
+    {
+      "start_time": 2903.688386,
+      "end_time": 2903.688386,
+      "annotation": [
+        {
+          "text": "Yes, one comes down [strike, strike]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "75637c2f-bfa1-4c78-8d9a-f632a975c0d5"
+    },
+    {
+      "start_time": 2912.325278,
+      "end_time": 2912.325278,
+      "annotation": [
+        {
+          "text": "The minute that one goes down, the other is on the upstroke and comes right down behind it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "c6320010-523d-4482-9d6e-76ec09d60b03"
+    },
+    {
+      "start_time": 2917.70706,
+      "end_time": 2917.70706,
+      "annotation": [
+        {
+          "text": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "979db674-07e2-4800-958d-97cb3f280f59"
+    },
+    {
+      "start_time": 2926.908171,
+      "end_time": 2926.908171,
+      "annotation": [
+        {
+          "text": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "64421357-7f66-4ea3-86cd-5e28df79d7db"
+    },
+    {
+      "start_time": 2940.536232,
+      "end_time": 2940.536232,
+      "annotation": [
+        {
+          "text": "Not all the time, because different ones have verses they want to put in themselves and so they jump in and after they start the song but the singing liner always starts it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8d596743-6c43-4c2d-afbb-8115b0550102"
+    },
+    {
+      "start_time": 2958.374235,
+      "end_time": 2958.374235,
+      "annotation": [
+        {
+          "text": "Well, they often do that and then after that they [distortion] get in there but they [distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "532cbdf2-c3e3-41d0-a3e2-4a489ed20d45"
+    },
+    {
+      "start_time": 2977.297275,
+      "end_time": 2977.297275,
+      "annotation": [
+        {
+          "text": "Uh, this song I got in Callahan, Florida, which is a railroad center in the northern part of Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "1a7ba842-729b-45c8-9264-19d228e8cb46"
+    },
+    {
+      "start_time": 2988.104241,
+      "end_time": 2988.104241,
+      "annotation": [
+        {
+          "text": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b7d0c6f5-de99-4b71-9282-eb669249ed2b"
+    },
+    {
+      "start_time": 2998.43379,
+      "end_time": 2998.43379,
+      "annotation": [
+        {
+          "text": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that, uh, and also some songs that they be used to, the rhythm to work it into place and then the boss hollers 'Bring 'em a hammer gang' and they start to spike it down. And this is a chant for lining the rail."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b57f38f0-841a-420e-a145-4142f87cd35a"
+    },
+    {
+      "start_time": 3055.636924,
+      "end_time": 3055.636924,
+      "annotation": [
+        {
+          "text": "They call it a lining bar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4f20177d-a167-40e7-8d39-7632463c27eb"
+    },
+    {
+      "start_time": 3061.71313,
+      "end_time": 3061.71313,
+      "annotation": [
+        {
+          "text": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fa0e78bd-7ae3-44a3-b539-8fc1eff03fd8"
+    },
+    {
+      "start_time": 3068.483759,
+      "end_time": 3068.483759,
+      "annotation": [
+        {
+          "text": "No, it's under it. You see, it's just like on this. It's a crow bar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "0b5a795c-bc10-4ae2-a0ec-b74c7ebb7c7c"
+    },
+    {
+      "start_time": 3081.460797,
+      "end_time": 3081.460797,
+      "annotation": [
+        {
+          "text": "Well, I've seen them put it between their legs this way and put it back and they get this, this splange under the rail, and then they 'heh, heh'. You know, like that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "25c66b27-aa29-4f87-a8c0-bdcfbb43b78d"
+    },
+    {
+      "start_time": 3092.669226,
+      "end_time": 3092.669226,
+      "annotation": [
+        {
+          "text": "Pulling it backwards, they're moving it backwards."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "dfe68fe2-de52-4c32-b9a0-74ff8dbcd906"
+    },
+    {
+      "start_time": 3097.562742,
+      "end_time": 3097.562742,
+      "annotation": [
+        {
+          "text": "That's right. Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "1bcde84d-818a-4a8a-b980-90a64178b73f"
+    },
+    {
+      "start_time": 3100.101728,
+      "end_time": 3100.101728,
+      "annotation": [
+        {
+          "text": "And all the men, you know because it's always straining and they 'heh'."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "665c7810-9425-4a51-9520-dfe6be3c5ff2"
+    },
+    {
+      "start_time": 3112,
+      "end_time": 3112,
+      "annotation": [
+        {
+          "text": "Alright"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "cc283a5e-8725-454e-8049-f3ea5ca171fc"
+    },
+    {
+      "start_time": 3142.960181,
+      "end_time": 3142.960181,
+      "annotation": [
+        {
+          "text": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "5661244c-7cdd-4f60-82f9-27d32d307b19"
+    },
+    {
+      "start_time": 3154.291519,
+      "end_time": 3154.291519,
+      "annotation": [
+        {
+          "text": "Used for spiking down the rails."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6bcd1c0c-0225-49f7-891a-b76203f20ac1"
+    },
+    {
+      "start_time": 3230.73161,
+      "end_time": 3230.73161,
+      "annotation": [
+        {
+          "text": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland, Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "75c880a3-4460-4987-8430-885f86d9e867"
+    },
+    {
+      "start_time": 3245.081542,
+      "end_time": 3245.081542,
+      "annotation": [
+        {
+          "text": "Uh, I gathered that in '33, 1933."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "22682a36-0f6e-4e98-be07-2b425fec3734"
+    },
+    {
+      "start_time": 3362.063673,
+      "end_time": 3362.992472,
+      "annotation": [
+        {
+          "text": "This is a lining rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "f82a45a1-322b-4e4c-b1e2-183ea79a6ea3"
+    },
+    {
+      "start_time": 3365.500227,
+      "end_time": 3371.351655,
+      "annotation": [
+        {
+          "text": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8ab4c835-c9e6-42cb-b355-b2a75286bd5f"
+    },
+    {
+      "start_time": 3375.066848,
+      "end_time": 3376.599365,
+      "annotation": [
+        {
+          "text": "Right a lot of rest in between."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7eafd850-0307-4e1f-aa1b-80509acba7f0"
+    },
+    {
+      "start_time": 3377.295964,
+      "end_time": 3380.128798,
+      "annotation": [
+        {
+          "text": "And a harder shove at the end. And they say 'heh', they all go."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8da32e7c-176e-4220-a95f-a8c6e6498b3f"
+    },
+    {
+      "start_time": 3385.469388,
+      "end_time": 3395.639728,
+      "annotation": [
+        {
+          "text": "Yes, but someone was short and someone only just come to the mood of the liner. And the men work whatever song he sung, they work that rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4032fe23-9d00-40e9-aa31-e22bf87e5a8d"
+    },
+    {
+      "start_time": 3395.686168,
+      "end_time": 3438.503764,
+      "annotation": [
+        {
+          "text": "Uh, now when the men are lining, they put the rail down, and then of course the captain, he's crouched straddle of it and uh, looks down it so he can tell when it's lined up in exact line with the others. And if they carry it, well he'll say shove it over and if they carry it too far, he'll say send it back and when they get it exactly in line, he'll tell em 'join it ahead' but then they corrupted that to 'join ahead' and all of them say 'join ahead' for 'join it ahead'. And, uh, so, uh, this song is about a lining and the rhythm goes with, they put this lining bar, this long steel bar, crow bar, between their legs so they have greater purchase and pull back on it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "834f9342-4552-4ccb-bc1f-7a847520017d"
+    },
+    {
+      "start_time": 3441.568798,
+      "end_time": 3444.448073,
+      "annotation": [
+        {
+          "text": "Their back is to the rail."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6f782f18-b994-48b3-b614-f358a62cad7e"
+    },
+    {
+      "start_time": 3447.327347,
+      "end_time": 3452.110658,
+      "annotation": [
+        {
+          "text": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fe4a3e46-d0c9-4bbc-ade9-cc7cd0a49af6"
+    },
+    {
+      "start_time": 3455.686531,
+      "end_time": 3460.376961,
+      "annotation": [
+        {
+          "text": "They just push the flange of this lining bar under the rail and then pull back on it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e2beb0fe-2137-4db5-8360-493c9d84e5b9"
+    },
+    {
+      "start_time": 3462.931156,
+      "end_time": 3469.757823,
+      "annotation": [
+        {
+          "text": "Oh, they can just feel it. Sometimes they look back, you know, but most of them, they just can feel it and they send it back on there."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a27e854f-9483-4753-ade1-84776f9df2b0"
+    },
+    {
+      "start_time": 3479.928163,
+      "end_time": 3507.513469,
+      "annotation": [
+        {
+          "text": "Well, it's different; it's not any particular time except just the feeling of the singing liner. Whatever song he starts. If it's a fast rhythm they work fast; if its's a slow one, well they work, you know, a little slower but they get just as much work done, it seems, somehow or another."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6b1eb5e3-2b98-46e5-a89c-90dc9ff2138c"
+    },
+    {
+      "start_time": 3507.513469,
+      "end_time": 3510.346304,
+      "annotation": [
+        {
+          "text": "ZNH singing low."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "9717489b-71a7-43f7-b830-9293f87bb4c4"
+    },
+    {
+      "start_time": 3511.321542,
+      "end_time": 3530.176145,
+      "annotation": [
+        {
+          "text": "Alright, this song I'm going to sing is a lining rhythm and I'm going to call it Mule on the Mount though you can start with any verse you want and give it a name and it's the most widely distributed work song in the United States and it has innumerable verses and whatnot about everything under the sun and it's a lining rhythm though they sometimes sing it just [cut off]."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b3245968-5b8a-4302-bbde-cf3d77c58676"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2787,
+      "annotation": [
+        {
+          "text": "ZNH sings 'Gonna See My Long-Haired Babe'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ce461824-6e89-46a4-bd6e-761eef259bed"
+    },
+    {
+      "start_time": 3028.728014,
+      "end_time": 3028.728014,
+      "annotation": [
+        {
+          "text": "ZNH chants 'Let's Shake It'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "602871bc-4999-440f-ba80-090d1fce9dcd"
+    },
+    {
+      "start_time": 3116.963198,
+      "end_time": 3116.963198,
+      "annotation": [
+        {
+          "text": "ZNH chants 'Let's Shake It'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4e64ff8f-aa98-4d9c-990b-fb4f28d11d06"
+    },
+    {
+      "start_time": 3157.820952,
+      "end_time": 3157.820952,
+      "annotation": [
+        {
+          "text": "ZNH chants 'That Old Black Gal'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "3e3aadf5-184c-4e25-850b-09955243402d"
+    },
+    {
+      "start_time": 3251.30449,
+      "end_time": 3251.30449,
+      "annotation": [
+        {
+          "text": "ZNH sings 'Shove it over'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        }
+      ],
+      "uuid": "1c13342c-2600-486c-a244-38abdebc8d2c"
+    }
+  ]
+}
